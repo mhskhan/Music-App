@@ -19,7 +19,7 @@ This is a simple music app built using JavaScript, CSS3, and HTML5. The app disp
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/music-app.git
+   git clone https://github.com/mhskhan/Music-App.git
    
 
 2. Navigate to the project directory:
